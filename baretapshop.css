@@ -1,0 +1,30 @@
+.product-container {
+  max-width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type="number"] {
+  width: 50px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  margin-left: 10px;
+}
+
+#price-display {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#total-price {
+  color: #337ab7;
+}
+
